@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicCalculatorOOP
 {
-    public class Calculator
+    public class Calculator // Calculator class to perform basic arithmetic operations
     {
         // Addition 
         // Substraction
