@@ -8,6 +8,17 @@ namespace BasicCalculatorOOP
 {
     public class Calculator
     {
+        // Addition 
+        // Substraction
+        // Multiplication
+        // Devision
+
+
+
+        public double Add(double a, double b)
+        {
+            return a + b;
+        }
 
     }
 }
