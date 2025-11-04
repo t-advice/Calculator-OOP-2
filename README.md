@@ -1,7 +1,7 @@
 ﻿# CalculatorOOP
 
 A simple object-oriented calculator I  built in C#.  
-This project demonstrates the basic principles of **Object-Oriented Programming (OOP)** — such as **encapsulation**, **abstraction**, and **classes/objects** — using a simple calculator example.
+This project demonstrates the basic principles of **Object-Oriented Programming (OOP)** — such as  Polymorphism and inheritance— using a simple calculator example.
 
 ---
 
