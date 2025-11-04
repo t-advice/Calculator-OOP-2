@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace BasicCalculatorOOP
 {
     // this is a base class for future expansion
-    internal class Operation
+    public class Operation
     {
+
+
     }
 }
